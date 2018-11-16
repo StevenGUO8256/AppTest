@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Application</string>
+    <string name="click_two_exit_message">再按一次退出程序</string>
+</resources>
